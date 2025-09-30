@@ -4,7 +4,7 @@
 # Date: 30/9/2025
 
 # Contents:
-- Password_Report_pdf  (final report)
+- task6_Report_pdf  (final report)
 - screenshots/ (screenshots of passwordmeter results)
 - raw_results.csv (table of test results)
 
