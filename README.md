@@ -7,6 +7,7 @@
 - task6_Report_pdf  (final report)
 - screenshots/ (screenshots of passwordmeter results)
 - raw_results.pdf (table of test results)
+- pwd_strength_tableview.pdf
 
 # Summary:
 This repo contains the results of testing six password types on password strength tools. The report explains findings, strength of the passwords and it's best practices.
